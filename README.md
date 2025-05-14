@@ -1,2 +1,2 @@
 # ChallengesApp
-A simple Spring Boot project to learn AWS deployment
+Monthly Challenges Web Application — Full Stack Project Using Spring Boot, React & AWS
